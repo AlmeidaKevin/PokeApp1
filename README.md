@@ -199,7 +199,7 @@ Desde Android Studio:
 
 
 <p align="center">
-    <img width="720" height="304" alt="Imagen 1" src="https://github.com/user-attachments/assets/2c619db8-cb1d-4e41-942b-1ad6125257ca" />
+    <img width="720" height="400" alt="Imagen 1" src="https://github.com/user-attachments/assets/2c619db8-cb1d-4e41-942b-1ad6125257ca" />
 </p>
 
 
