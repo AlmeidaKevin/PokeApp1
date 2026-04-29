@@ -193,7 +193,7 @@ Desde Android Studio:
 ## 📸 Capturas de pantalla
 
 
-```
+
 
 <p align="center">[LA APLICACION MOVIL CON EL ICON Y EL SPLASH SCREEN]</p>
 
@@ -218,7 +218,7 @@ Desde Android Studio:
 
 </p>
 
-```
+
 
 ---
 
